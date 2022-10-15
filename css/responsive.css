@@ -1,0 +1,123 @@
+@media only screen and (max-width: 1200px){
+    .banner{
+        height: 450px;
+    }
+
+}
+@media only screen and (max-width: 860px){
+    #map{
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 700px){
+    #map{
+        width: 35%;
+    }
+
+}
+@media only screen and (max-width: 530px){
+
+    .footer_top{
+        flex-direction: column;
+    }
+    #map{
+        width: 100%;
+        height: 226px;
+    }
+    .contact{
+        margin-bottom: 10px;
+    }
+    footer{
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width: 514px){
+    .products_list{
+        padding-left: 110px;
+    }
+}
+@media only screen and (max-width: 440px){
+
+    .product_box{
+        margin-left: 50px;
+    }
+    .banner{
+        height: 350px;
+    }
+    .products_list{
+        padding-left: 80px;
+    }
+}
+@media only screen and (max-width: 400px){
+    .product_box{
+        margin-left: 30px;
+    }
+    .products_list{
+        padding-left: 60px;
+    }
+}
+@media only screen and (max-width: 370px){
+    .product_box{
+        margin-left: 15px;
+    }
+    .products_list{
+        padding-left: 50px;
+    }
+    .footer_rect{
+        font-size: 12px;
+    }
+    .contact{
+        margin-left: 10px;
+    }
+    .contact div{
+        font-size: 14px;
+    }
+    .contact p{
+        font-size: 12px;
+    }
+    #map{
+        height: 234px;
+    }
+}
+@media only screen and (max-width: 340px){
+
+    .product_box{
+        margin-left: 15px;
+    }
+    .header_navigation ul li{
+        margin: 0 8px 0 8px;
+    }
+    .p_img{
+        width: 160px;
+        height: 215px;
+    }
+    .p_img img{
+        width: 160px;
+        height: 160px;
+    }
+    .p_img p{
+        font-size: 14px;
+        line-height: 13px;
+    }
+    .glider-prev{
+        height: 160px;
+    }
+    .glider-next{
+        height: 160px;
+    }
+    .products_list{
+        padding-left: 40px;
+    }
+    .footer_rect p{
+        margin-left: 2px;
+    }
+}
+@media only screen and (max-width: 300px){
+.product_box{
+    margin-left: 0;
+}
+.products_list{
+    padding-left: 20px;
+}
+}
